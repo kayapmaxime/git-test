@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+
+p{
+    background-color: black;
+    padding: 40px;
+    color: white;
+    margin: 40px;
+   font-size: large; 
+}
+html{
+    background-color: bisque;
+}
+img{
+    border: white solid;
+    height: 500px;
+    width: 400px;
+    text-align: center;
+}
+/* Selecteur d'element */
+h2,h4{
+    text-align: center;
+    text-decoration: underline;
+  
+}
+cite{
+    text-align: center;
+    border: black solid;
+    border-radius: 30px;
+    padding: 30px;
+}
+footer{
+    text-align: center;
+}
+/* sELECTEUR UNIVERSEL */
+*{
+    border: 0;
+    margin: 0;
+    padding:0;
+}
+section{
+    color: firebrick;
+}
+ul{
+    margin: 40px;
+    padding: 40px;
+}
